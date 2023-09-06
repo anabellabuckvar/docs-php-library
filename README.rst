@@ -19,7 +19,7 @@ the following command: ::
 
 View ``build/master/html/index.html`` to view your current build of the
 documentation.
-
+ 
 If you have not installed giza, you can do so with `pip`.
 
 To contribute to the documentation, please fork this repository on
