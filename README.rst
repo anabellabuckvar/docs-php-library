@@ -1,5 +1,5 @@
 =================================
-MongoDB PHP Library Documentation
+MongoDB PHP Library Documentation 
 =================================
 
 This repository contains documentation regarding the MongoDB PHP Library. This
