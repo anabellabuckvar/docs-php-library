@@ -2,7 +2,7 @@
 MongoDB PHP Library Documentation 
 =================================
 
-This repository contains documentation regarding the MongoDB PHP Library. This
+This repository contains documentation regarding the MongoDB PHP Library. This 
 documentation builds on the work of the `MongoDB
 Manual <http://docs.mongodb.org/manual/>`_.
 
